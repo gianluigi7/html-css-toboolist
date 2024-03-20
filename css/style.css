@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: beige;
+    border-bottom: 1px solid red
+    height: 75px;
+}
+
+main{
+    background-color: blue;
+    height: 700px;
+}
