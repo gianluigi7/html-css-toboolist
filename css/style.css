@@ -6,12 +6,30 @@
 
 
 header{
-    background-color: beige;
-    border-bottom: 1px solid red
+    
     height: 75px;
+    padding: 10px;
+    margin-bottom: 40px;
+    background-color: white;
 }
 
+header img{
+    height: 100%;
+    vertical-align: middle;
+    margin: 0 10px;
+}
+
+header span{
+    font-size: 60px;
+    font-weight: 800;
+    vertical-align: middle;
+}
 main{
     background-color: blue;
     height: 700px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(128, 128, 128, 0.103);
 }
