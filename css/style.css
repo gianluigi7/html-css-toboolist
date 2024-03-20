@@ -8,7 +8,7 @@
 header{
     
     height: 75px;
-    padding: 10px;
+    padding: 15px 0px;
     margin-bottom: 40px;
     background-color: white;
 }
@@ -16,20 +16,57 @@ header{
 header img{
     height: 100%;
     vertical-align: middle;
-    margin: 0 10px;
+    margin:  0px 5px 0px 20px;
 }
 
 header span{
-    font-size: 60px;
+    font-size: 35px;
     font-weight: 800;
     vertical-align: middle;
 }
-main{
-    background-color: blue;
-    height: 700px;
-}
 
-body{
+
+
+ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(128, 128, 128, 0.103);
 }
+ 
+ .container{
+    max-width: 900px;
+    margin: 0 auto;
+    height: 600px;
+    border-radius: 10px;
+    background-color: white;
+
+ }
+  .top{
+    height: 75px;
+    line-height: 75px;
+    padding: 0 50px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.103);
+  }
+
+  .bot{
+   background-color: white;
+   padding: 0 50px;
+   height: 525px;
+   background-color: yellow;
+
+  }
+      .btn{
+    border-radius: 6px;
+    padding: 5px 10px;  
+   }
+
+   .btn-task{
+    border: 1px solid aqua;
+    background-color: aqua;
+    color: white;
+   }
+
+   .btn-section {
+    background-color: gray;
+    color: grey;
+    background-color: transparent;
+   }
