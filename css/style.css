@@ -90,3 +90,33 @@ header span{
     border: 1px solid green;
     color: green;
   }
+  .label{
+    padding: 5px 18px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+  }
+  .bg-aqua{
+    background-color: aqua;
+  }
+  .bg-violet{
+    background-color: rgb(117, 36, 117);
+
+  }
+  .bg-orange{
+    background-color: orange;
+    
+
+  }
+  .bg-green{
+    background-color: rgb(0, 128, 90);
+
+  }
+  .bg-pink{
+    background-color: rgb(184, 53, 75);
+
+  }
+  .bg-bug{
+    background-color: rgb(146, 182, 48);
+
+  }
